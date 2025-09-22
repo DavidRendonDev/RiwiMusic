@@ -94,9 +94,7 @@ dotnet run
 
 👤 Autor
 
-[Tu Nombre Completo]
-
-    David Estevan Rendon Sanchez
+David Estevan Rendon Sanchez
 
     CODER RIWI
 
